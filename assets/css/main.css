@@ -158,8 +158,9 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 32px;
+  max-height:80px;
   margin-right: 8px;
+  border-radius: 20px;
 }
 
 .header .logo h1 {
@@ -461,7 +462,8 @@ h6 {
 }
 
 .footer .footer-about .logo img {
-  max-height: 40px;
+  max-height: 80px;
+  border-radius: 20px;
   margin-right: 6px;
 }
 
